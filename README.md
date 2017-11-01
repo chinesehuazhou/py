@@ -9,3 +9,7 @@ for html2pdf_lxfBlog.py
 for generateSeq.py
 
 + 项目简介：生成一定数量的随机字符串。大小写加数字，可扩展。
+
+
+
+test
